@@ -1,3 +1,4 @@
+
 public class simpleInterest {
 
     public static int calculateInterest(int principle , int time , int roi){

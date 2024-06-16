@@ -1,3 +1,4 @@
+
 public class SumofNatutalNumbers {
     public static void sumOfNaturalNumbers(int n){
         int start =0 ;

@@ -1,3 +1,4 @@
+
 public class primeOrNot {
     public static void isPrime(int n ){
         if(n%2==0){
